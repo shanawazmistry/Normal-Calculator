@@ -8,6 +8,8 @@
 - Download the entire code 
 - Open up the index.html.
 
+# App Link
+<p <a href="https://shanawazmistry.github.io/Normal-Calculator/">Normal_Calculator</p>
 ## Technologies used: 
 - HTML
 - CSS [style/Presentation]
