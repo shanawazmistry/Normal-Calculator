@@ -8,7 +8,8 @@
 - Open up the index.html.
 
 # App Link
-<p a< href="https://shanawazmistry.github.io/Normal-Calculator/">Normal_Calculator</p>
+<p align="center">
+  <h4 align="center"><a href="https://shanawazmistry.github.io/Normal-Calculator/">Normal_Calculator</a></h4>
 
 ## Technologies used: 
 - HTML
